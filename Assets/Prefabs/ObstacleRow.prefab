@@ -79,7 +79,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.4009434, b: 0.46723333, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -209,3 +209,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   middleObstacle: {fileID: 4882524542635915118}
   obstaclesOnEachSide: 9
+  phaseTokenPrefab: {fileID: 4922305785033721894, guid: 9e8862dce7b4c304d9648f46bd842bb2, type: 3}
+  bigPhaseTokenPrefab: {fileID: 4481777225075634638, guid: 2e14a7caab6289e44aca5d4b4d10464d, type: 3}
